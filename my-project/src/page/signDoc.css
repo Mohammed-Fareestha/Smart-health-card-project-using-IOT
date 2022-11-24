@@ -1,0 +1,38 @@
+.signdoc{
+    margin-top: 40px;
+}
+
+.topcards{
+    background-color: rgb(24, 101, 11);
+    color: azure;
+    font-family: 'Alfa Slab One', cursive;
+    width: 9cm;
+}
+
+.sectop{
+    padding-top: 20px;
+}
+
+.imgUpload{
+    margin-top: 40px;
+    margin-bottom: 10px;
+    width: 150px;
+    height: 130px;
+    cursor: pointer;
+    
+}
+.img-2{
+    padding-right: 20px;
+    width:250px;
+    height: 300px;
+}
+
+.docUpload{
+    padding-top: 30px;
+}
+
+.final{
+    padding-top: 50px;
+    margin-bottom: 100px;
+
+}

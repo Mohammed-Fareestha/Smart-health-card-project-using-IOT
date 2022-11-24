@@ -1,0 +1,61 @@
+.top{
+    color: rgb(24, 101, 11);
+    margin-top: 50px;
+    font-family: 'Alfa Slab One', cursive;
+} 
+
+.card{
+    width: 600px;
+    text-justify: auto;
+    background-color: aliceblue;
+}
+Button{
+    margin-top: 10px;
+    width: 150px;
+    padding-right: 1cm;
+
+}
+.docpat{
+    margin-top: 50px;
+}
+
+.btn-hover {
+    width: 150px;
+    font-size: 16px;
+    
+    color: #fff;
+    cursor: pointer;
+    
+    height: 55px;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+.btn-hover.color-5 {
+    background-image: linear-gradient(to right, #0ba360, #3cba92, #30dd8a, #2bb673);
+    box-shadow: 0 4px 15px 0 rgba(23, 168, 108, 0.75);
+}
+
+.signup{
+    padding-top: 15px;
+}
+
+.img{
+    height: 15cm;
+    padding-right: 6cm;
+}
